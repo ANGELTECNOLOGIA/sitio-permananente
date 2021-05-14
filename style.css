@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  background: #34F6AB
+}
+
+#h1 {
+    font-size: 20px;
+    color: white;
+    background: darkcyan;
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid black;
+}
+
+.seccion{
+  margin: 0;
+  width: 100%;
+  float: center;
+}
+
+header, section, article{
+  display: block;
+}
+
+article {
+  background: turquoise;
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+article footer {
+  text-align: right;
+  margin-top: 0;
+}
+
+p {
+  text-align: center;
+}
