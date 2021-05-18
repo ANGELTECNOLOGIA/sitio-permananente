@@ -5,7 +5,7 @@
 
 body{
   text-align: center;
-  background: #34F6AB
+  background: cyan;
 }
 
 #h1 {
@@ -29,7 +29,8 @@ header, section, article{
 }
 
 article {
-  background: turquoise;
+  background: teal;
+  margin: auto;
   border: 1px solid black;
   padding: 20px;
   margin-top: 10px;
@@ -45,4 +46,17 @@ article footer {
 
 p {
   text-align: center;
+}
+
+table {
+  align-items: center;
+  border: 1px solid white;
+}
+
+a {
+  color: white;
+}
+
+tr {
+  color: white;
 }
