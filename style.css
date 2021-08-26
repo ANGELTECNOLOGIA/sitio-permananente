@@ -16,6 +16,7 @@ body{
     text-align: center;
     padding: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
 }
 
 .seccion{
@@ -36,6 +37,7 @@ article {
   text-align: center;
   margin-left: 0;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 10px;
   
 }
 article footer {
@@ -71,4 +73,5 @@ tr {
   font-size: 15px;
   border: 1px solid rgb(255, 255, 255);
   margin: 0px 0px;
+  border-radius: 10px;
 }
